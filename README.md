@@ -32,3 +32,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yozhikes)
 ![Code Wars](https://www.codewars.com/users/yozhikes/badges/micro)
 <img src="https://myreadme.vercel.app/api/embed/yozhikes?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yozhikes&theme=github)

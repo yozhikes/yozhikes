@@ -30,4 +30,4 @@
  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=yozhikes)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yozhikes)
-[![Code Wars](https://www.codewars.com/users/yozhikes/badges/micro)
+![Code Wars](https://www.codewars.com/users/yozhikes/badges/micro)

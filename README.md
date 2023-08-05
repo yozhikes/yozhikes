@@ -33,4 +33,4 @@
 ![Code Wars](https://www.codewars.com/users/yozhikes/badges/micro)
 <img src="https://myreadme.vercel.app/api/embed/yozhikes?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=yozhikes)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=yozhikes.yozhikes)

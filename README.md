@@ -32,4 +32,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yozhikes)
 ![Code Wars](https://www.codewars.com/users/yozhikes/badges/micro)
 <img src="https://myreadme.vercel.app/api/embed/yozhikes?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
-<img src="https://komarev.com/ghpvc/?username=yozhikes&color=brightgreen" alt="watching_count" />
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=madushadhanushka.madushadhanushka)
